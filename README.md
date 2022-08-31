@@ -13,7 +13,7 @@
 #     Size verilen iki adet array’den uygun methodları kullanarak yeni bir object oluşturmanız gerekiyor. Ve bu obje key-value şeklinde doğru eşleştirme yapılarak       oluşturulmalı. (Örnek Output: {‘Name Surname’: ‘Hyacinth Vincent’, ‘Company’: ‘Duis Corporation’} 
 
 # ⚡* Ödevlerle alakalı gerekli dokümanlar telegram grubunda da ayrıca paylaşılmıştır.
-# ⚡* Ödevlerin yüklemesini yaparken repository isminizi isim_soyisim_odev1 şeklinde paylaşmalısınız.
+# ⚡* Ödevlerin yüklemesini yaparken USE THIS TEMPLATE dedikten sonra adınız_soyadınız_hafta1odev şeklinde isim seçiniz. repository otomatik olarak oluşacaktır
 
 # Son Teslim Tarihi : 02.09.2022 00:00
 
